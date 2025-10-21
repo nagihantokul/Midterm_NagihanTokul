@@ -1,0 +1,63 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Espresso",
+        "description": "Strong and pure coffee made by forcing hot water under pressure through finely-ground coffee beans.",
+        "imageName": "espresso"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Latte",
+        "description": "Smooth espresso mixed with steamed milk and a light layer of foam on top. Perfect for mornings.",
+        "imageName": "latte"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Cappuccino",
+        "description": "Classic Italian coffee made with equal parts espresso, steamed milk, and foam.",
+        "imageName": "cappuccino"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Americano",
+        "description": "Espresso diluted with hot water, offering a rich flavor similar to drip coffee.",
+        "imageName": "americano"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Mocha",
+        "description": "A delicious blend of espresso, chocolate syrup, and steamed milk topped with whipped cream.",
+        "imageName": "mocha"
+    },
+    {
+        "id": "ff32jj887hhg99",
+        "name": "Flat White",
+        "description": "A velvety coffee with smooth microfoam milk poured over a strong double espresso.",
+        "imageName": "flatwhite"
+    },
+    {
+        "id": "gg32jj887hhg99",
+        "name": "Macchiato",
+        "description": "Espresso marked with a small amount of milk foam, offering a bold yet balanced taste.",
+        "imageName": "macchiato"
+    },
+    {
+        "id": "hh32jj887hhg99",
+        "name": "Cold Brew",
+        "description": "Brewed slowly in cold water for 12 hours, resulting in a smooth and less acidic coffee.",
+        "imageName": "coldbrew"
+    },
+    {
+        "id": "ii32jj887hhg99",
+        "name": "Iced Latte",
+        "description": "Espresso combined with cold milk and ice cubes for a refreshing summer drink.",
+        "imageName": "icedlatte"
+    },
+    {
+        "id": "jj32jj887hhg99",
+        "name": "Ice Coffee",
+        "description": "Chilled coffee served over ice with milk or cream. A perfect pick-me-up on a hot day.",
+        "imageName": "icecoffee"
+    }
+]
+
