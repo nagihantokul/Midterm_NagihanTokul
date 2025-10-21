@@ -22,7 +22,7 @@ The app gets all the data (name, image, and description) from a JSON file.
 
 ## Files
 - **ContentView.swift** → main screen with the list  
-- **DetailView.swift** → detail page for each coffee  
+- **Helper.swift** → helps decode Data.json file easily
 - **Subject.swift** → data model  
 - **Data.json** → coffee data  
 - **Assets.xcassets** → coffee images  
